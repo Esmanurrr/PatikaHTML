@@ -1,0 +1,52 @@
+<h1>Esmanur Mazlum</h1>
+<h2>Hakkında</h2>
+<p>Ben Bilgisayar mühendisi 2. sınıf öğencisiyim. Adana'da yaşıyorum ve okuyorum. Buralarda yılın birçok ayı sıcak olur ama kışı çok güzeldir.
+<br>Ben de zaten kışı daha çok severim, buralara kar yağmaz pek ama olsun güzel olan şeyler hep azdır zaten :')</p>
+<h2>Yapmaktan hoşlandığı şeyler </h2>
+<ol>
+    <li>
+        Kitap okumak
+        <ul>
+            <li>
+                <a href="https://www.goodreads.com/book/show/68811.Momo" target="_blank">
+                Momo
+                </a>
+            </li>
+            <li>Od</li>
+        </ul>
+    </li>
+    <li>
+        Film izlemek
+        <ul>
+            <li>
+                <a href="https://www.imdb.com/title/tt0375611/" target="_blank">
+                Black
+                </a>
+            </li>
+            <li>Benjamin Button'un tuhaf hikayesi</li>
+            <li>Truman Show</li>
+        </ul>
+    </li>
+    <li>
+        Dizi izlemek
+        <ul>
+            <li>
+                <a href="https://www.imdb.com/title/tt2879552/" target="_blank">
+                11.22.63
+                </a>
+            </li>
+            <li>Goblin</li>
+        </ul>
+    </li>
+    
+</ol>
+
+<h2>Sevdiği bir kitap : Truman Show</h2>
+<p>Jim Carrey sayesinde severek ve eğlenerek izlediğim filmlerden bir tanesi daha. Her ne kadar bazı yerlerde üzülsem de bu duygunun da filme güzellik kattığını fark ettim.
+<br>Sıkılmadan izleyeceğiniz bir film olduğunu düşünüyorum :) </p>
+
+<a href="https://www.imdb.com/title/tt0120382/" target="_blank">
+    <img src="https://cdn1.ntv.com.tr/gorsel/byYvyoUSj06B3aB3hCx0nA.jpg?width=960&mode=crop&scale=both" alt="Truman Show'dan güzel bir sahne :)">
+</a>
+
+<!-- insanı oldukça da düşündüren bir film bence -->
